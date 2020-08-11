@@ -5,7 +5,7 @@
   - Teacher: Only inference. No Training
   - Student: Training 
   
-  ![캡처](https://user-images.githubusercontent.com/55013577/89905415-1e641e80-dc25-11ea-863c-16248ecb3281.PNG width="70%")
+  ![캡처](https://user-images.githubusercontent.com/55013577/89905415-1e641e80-dc25-11ea-863c-16248ecb3281.PNG)
   
 # Teacher
   - Teacher Network which is pretrained on CIFAR10 will be provided 
