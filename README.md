@@ -4,8 +4,8 @@
   - Change the loss function which composed with true label of image, student output and teacher output 
   - Teacher: Only inference. No Training
   - Student: Training 
+![distill_loss](https://user-images.githubusercontent.com/55013577/89907697-f2966800-dc27-11ea-8a62-b71d05e60cb2.PNG)
   
-  ![캡처](https://user-images.githubusercontent.com/55013577/89905415-1e641e80-dc25-11ea-863c-16248ecb3281.PNG)
   
 # Teacher: VGG 16 (pretrained on CIFAR 10 dataset) 
   - Teacher Network which is pretrained on CIFAR10 will be provided 
