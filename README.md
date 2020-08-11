@@ -6,8 +6,7 @@
   - Student: Training 
 ![distill_loss](https://user-images.githubusercontent.com/55013577/89907697-f2966800-dc27-11ea-8a62-b71d05e60cb2.PNG)
 
-![zoqcj](https://user-images.githubusercontent.com/55013577/89911990-042e3e80-dc2d-11ea-972d-a49a0ef6bf96.PNG)
-  
+![zoqcj](https://user-images.githubusercontent.com/55013577/89912145-2d4ecf00-dc2d-11ea-9120-67484e3306f7.PNG)  
   
 # Teacher: VGG 16 (pretrained on CIFAR 10 dataset) 
   - Teacher Network which is pretrained on CIFAR10 will be provided 
