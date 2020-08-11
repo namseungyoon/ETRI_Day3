@@ -7,10 +7,10 @@
   
   ![캡처](https://user-images.githubusercontent.com/55013577/89905415-1e641e80-dc25-11ea-863c-16248ecb3281.PNG)
   
-# Teacher
+# Teacher: VGG 16 (pretrained on CIFAR 10 dataset) 
   - Teacher Network which is pretrained on CIFAR10 will be provided 
   - Teacher shoudn't be updated when training. 
 
-# Student 
+# Student: N layer CNN(Have to implement)
   - Student will be trained based on teacher and true labels 
   - The maximum convergence value of the student's accuracy can be 80.
