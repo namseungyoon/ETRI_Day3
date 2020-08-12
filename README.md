@@ -6,10 +6,10 @@
 
 
 # To do 
- Change the loss function which composed with true label of image, student output and teacher output 
-  # Teacher: VGG 16 (pretrained on CIFAR 10 dataset) 
-    - Teacher Network which is pretrained on CIFAR10 will be provided 
-    - Teacher shoudn't be updated when training. (Evaluation mode) 
+## Change the loss function which composed with true label of image, student output and teacher output 
+## Teacher: VGG 16 (pretrained on CIFAR 10 dataset) 
+### Teacher Network which is pretrained on CIFAR10 will be provided 
+### Teacher shoudn't be updated when training. (Evaluation mode) 
 
   # Student: 5 layer CNN(have to implement)
     - Student will be trained based on teacher and true labels
