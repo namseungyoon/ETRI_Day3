@@ -2,6 +2,8 @@
 # Knowledge distillation
 ## VGG.py: Teacher Network 
 ## VGG16_teacher.pth: pretrained weights 
+## download the weight in google drive: https://drive.google.com/drive/folders/16XDhtJIvLURY922JYmuetgoyGwcli2lW?usp=sharing
+
 
 # To do 
  Change the loss function which composed with true label of image, student output and teacher output 
