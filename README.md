@@ -1,7 +1,7 @@
 # ETRI_Day3
 # Knowledge distillation
 ## VGG.py: Teacher Network 
-## VGG16_teacher: pretrained weights 
+## VGG16_teacher.pth: pretrained weights 
 
 # To do 
   - Change the loss function which composed with true label of image, student output and teacher output 
