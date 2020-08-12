@@ -15,7 +15,7 @@
     - Student will be trained based on teacher and true labels
       - The architecture of Student model is up to you. 
       - And train the student network 
-![distill_loss](https://user-images.githubusercontent.com/55013577/89907697-f2966800-dc27-11ea-8a62-b71d05e60cb2.PNG)
+<img width="730" alt="캡처" src="https://user-images.githubusercontent.com/55013577/89966849-045d2700-dc8b-11ea-8c8f-b477e6abb198.PNG">
 
 ![zoqcj](https://user-images.githubusercontent.com/55013577/89912145-2d4ecf00-dc2d-11ea-9120-67484e3306f7.PNG)  
   
