@@ -2,7 +2,7 @@
 # Knowledge distillation
 ## VGG.py: Teacher Network 
 ## VGG16_teacher.pth: pretrained weights 
-## download the pretrained weight in google drive: https://drive.google.com/drive/folders/16XDhtJIvLURY922JYmuetgoyGwcli2lW?usp=sharing
+## Download the pretrained weight in google drive: https://drive.google.com/drive/folders/16XDhtJIvLURY922JYmuetgoyGwcli2lW?usp=sharing
 
 
 # To do 
