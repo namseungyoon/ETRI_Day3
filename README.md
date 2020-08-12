@@ -1,4 +1,3 @@
-# ETRI_Day3
 # Knowledge distillation
 ## VGG.py: Teacher Network 
 ## VGG16_teacher.pth: pretrained weights 
